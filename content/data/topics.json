@@ -1,0 +1,22 @@
+[
+  {
+    "name": "News",
+    "slug": "topic-1",
+    "image": "../../static/images/news.jpg"
+  },
+  {
+    "name": "Money",
+    "slug": "topic-2",
+    "image": "../../static/images/money.jpg"
+  },
+  {
+    "name": "Sports",
+    "slug": "topic-3",
+    "image": "../../static/images/sport.jpg"
+  },
+  {
+    "name": "Opinions",
+    "slug": "topic-4",
+    "image": "../../static/images/opinions.jpg"
+  }
+]
