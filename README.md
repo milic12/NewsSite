@@ -2,7 +2,7 @@
 
 News site with Netlify CMS, Gatsby, and React.
 
-[Example Hosted App](https://world-news-site.netlify.app/)
+[Deployed App](https://world-news-site.netlify.app/)
 
 ## Preparing the application
 
