@@ -2,7 +2,6 @@ module.exports = {
   siteMetadata: {
     title: `World News`,
     description: `CMS powered Blog`,
-    author: `@boostcode`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
