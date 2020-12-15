@@ -14,6 +14,11 @@ Install the dependencies:
 ```bash
 npm install
 ```
+or
+
+```bash
+gatsby new NewsSite https://github.com/milic12/NewsSite.git
+```
 
 
 ## Running the application
