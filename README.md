@@ -27,9 +27,9 @@ npm run dev
 This will open in your browser at [localhost:8000](http://localhost:8000).
 
 
-<img src="/images/slika1.png" alt="covid1"/>
-<img src="/images/slika2.png" alt="covid2"/>
-<img src="/images/slika3.png" alt="covid3"/>
+<img src="/images/slika1.png" alt="news1"/>
+<img src="/images/slika2.png" alt="news2"/>
+<img src="/images/slika3.png" alt="news3"/>
 
 
 
