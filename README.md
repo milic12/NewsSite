@@ -33,7 +33,9 @@ This will open in your browser at [localhost:8000](http://localhost:8000).
 <img src="/images/slika4.jpg" alt="news4"/>
 <img src="/images/slika5.jpg" alt="news5"/>
 <img src="/images/slika6.jpg" alt="news6"/>
+Netlify CMS
 <img src="/images/slika7.jpg" alt="news7"/>
+<img src="/images/slika8.jpg" alt="news8"/>
 
 
 
