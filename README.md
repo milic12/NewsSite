@@ -2,7 +2,7 @@
 
 News site with Netlify CMS, Gatsby, and React.
 
-[Example Hosted App](https://cocky-williams-9d49bd.netlify.app/)
+[Example Hosted App](https://world-news-site.netlify.app/)
 
 ## Preparing the application
 
