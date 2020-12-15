@@ -10,14 +10,12 @@ To run the application you will need Node.js and npm installed. Start by cloning
 
 
 Install the dependencies:
+```bash
+gatsby new NewsSite https://github.com/milic12/NewsSite.git
+```
 
 ```bash
 npm install
-```
-or
-
-```bash
-gatsby new NewsSite https://github.com/milic12/NewsSite.git
 ```
 
 
