@@ -1,6 +1,6 @@
 # News Site
 
-News site with Netlify CMS, Gatsby, and React.
+World News site with Netlify CMS, Gatsby, and React.
 
 👉 [Deployed App](https://world-news-site.netlify.app/)
 
